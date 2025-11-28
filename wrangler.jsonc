@@ -1,6 +1,6 @@
 {
 	"main": "dist/_worker.js/index.js",
-	"name": "astro-landing-page",
+	"name": "lowland-geospatial-website",
   "compatibility_date": "2025-11-28",
   "compatibility_flags": [
     "nodejs_compat",
